@@ -38,6 +38,7 @@ function App() {
       }
 
     } catch (err) {
+      console.error("An error occurred while fetching:", err);
       setError('Failed to fetch recommendations. Please try again later.');
     } finally {
       setLoading(false);
