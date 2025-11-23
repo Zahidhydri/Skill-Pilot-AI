@@ -19,7 +19,7 @@ Skill Pilot AI addresses the critical gap between academic education and the dem
 ## 🚀 Live Demo
 
 You can view the live deployed prototype here:
-**[https://skill-pilot-frontend.vercel.app/](https://skill-pilot-frontend.vercel.app/)** *(Replace with your actual Vercel URL)*
+**[https://skill-pilot-frontend.vercel.app/](https://skillpilot-qi.vercel.app/)** 
 
 ---
 ## 🛠️ Technology Stack
