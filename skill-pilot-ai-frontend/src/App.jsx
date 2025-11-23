@@ -106,7 +106,7 @@ function App() {
       </div>
 
       <footer className="app-footer">
-        <p>&copy; {new Date().getFullYear()} Zahid Hydri. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Hydri. All Rights Reserved.</p>
       </footer>
     </div>
   );
